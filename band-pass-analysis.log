@@ -1,0 +1,21 @@
+Circuit: * Z:\home\mayank\Data\Workspaces\Projects\Analog Electronics\3-Phase Equalizer\band-pass-analysis.asc
+
+.OP point found by inspection.
+
+Date: Thu Oct 08 00:07:29 2020
+Total elapsed time: 0.092 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 2368
+traniter = 2368
+tranpoints = 1185
+accept = 1103
+rejected = 82
+matrix size = 8
+fillins = 0
+solver = Normal
+Matrix Compiler1: 228 bytes object code size  3.3/3.3/[3.3]
+Matrix Compiler2: 460 bytes object code size  4.0/3.4/[3.3]
+

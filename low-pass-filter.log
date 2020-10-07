@@ -1,8 +1,8 @@
-Circuit: * C:\users\mayank\My Documents\LTspiceXVII\Projects\3-Phase Equalizer\low-pass-filter.asc
+Circuit: * Z:\home\mayank\Data\Workspaces\Projects\Analog Electronics\3-Phase Equalizer\low-pass-filter.asc
 
 
-Date: Wed Oct 07 18:06:34 2020
-Total elapsed time: 0.045 seconds.
+Date: Wed Oct 07 21:06:27 2020
+Total elapsed time: 0.064 seconds.
 
 tnom = 27
 temp = 27

@@ -1,0 +1,21 @@
+Circuit: * Z:\home\mayank\Data\Workspaces\Projects\Analog Electronics\3-Phase Equalizer\low-pass-analysis.asc
+
+.OP point found by inspection.
+
+Date: Thu Oct 08 00:09:38 2020
+Total elapsed time: 0.219 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 12006
+traniter = 12006
+tranpoints = 6004
+accept = 3625
+rejected = 2379
+matrix size = 5
+fillins = 0
+solver = Normal
+Matrix Compiler1: 78 bytes object code size  2.8/2.7/[2.8]
+Matrix Compiler2:      25 opcodes  2.7/[2.8]/2.9
+
